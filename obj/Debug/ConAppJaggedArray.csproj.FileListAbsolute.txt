@@ -1,0 +1,8 @@
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.exe.config
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.exe
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.pdb
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.csproj.AssemblyReference.cache
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.exe
+D:\Mphasis\Day-5\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.pdb
